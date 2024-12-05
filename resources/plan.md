@@ -3,7 +3,7 @@
 | Timelines | Impact now | Empower volunteers |
 | :-- | :-- | :-- |
 | Sprint 2025 | 1. https://www.unrwausa.org/ <br>2. Survey stakeholders to identify priority apps | Scoping review to identify gaps |
-| Summer 2025 | 1. Design of art therapy workshops + facilitiations  <br> 2.  | Research-to-production |
+| Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2.  | Research-to-production |
 | Fall 2025 |  | Grant targets |
 
 
@@ -26,3 +26,17 @@
 https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petition-against-their-pension-plans-being-used
   
 </details>
+
+
+<details>
+
+<summary>Team's skills/ experiences</summary>
+
+- CS
+- Designer
+  - Graphics
+  - UX/UI
+- Psychology (?)
+  
+</details>
+
