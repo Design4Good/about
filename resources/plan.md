@@ -30,7 +30,10 @@ https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petit
 
 <details>
 
+
 <summary>Team's skills/ experiences</summary>
+
+[Schedules (password-protected)](https://docs.google.com/spreadsheets/d/1cJEKXi2-V47BDSKH-w2vzXvwWTIgdLD41aiQXKUoUM8/)
 
 - CS
 - Designer
