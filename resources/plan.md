@@ -1,4 +1,6 @@
+# Plan
 
+## Overview
 
 | Timelines | Impact now | Empower volunteers |
 | :-- | :-- | :-- |
@@ -6,12 +8,25 @@
 | Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2.  | <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
 | Fall 2025 |  | Research-to-production & grant targets |
 
+## Consultations
+
+<details>
+
+<summary>2024-11-28</summary>
+
+# Assistant prof  
+- Workshops 4 Gaza
+- eSIMS
+- Journalists
+
+</details>
+
 
 <details>
 
 <summary>2024-12-05</summary>
 
-## Consultation with WB resident
+# WB resident/ assistant prof
 - No light
 - Living in tents
 - No radio communication
@@ -22,18 +37,16 @@
   - Walked two hours just to get phone charged 
   - Difficult to post grades
 
-## Resources shared:
-https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petition-against-their-pension-plans-being-used
-  
+- Resources shared:
+  - https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petition-against-their-pension-plans-being-used
+  - https://www.unrwausa.org/
+
+
 </details>
 
 
-<details>
 
-
-<summary>Team's skills/ experiences</summary>
-
-[Schedules (password-protected)](https://docs.google.com/spreadsheets/d/1cJEKXi2-V47BDSKH-w2vzXvwWTIgdLD41aiQXKUoUM8/)
+##  Team's skills/ experiences
 
 - CS
 - Designer
@@ -41,5 +54,7 @@ https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petit
   - UX/UI
 - Psychology (?)
   
-</details>
+## Logistics
+
+- [Schedules (password-protected)](https://docs.google.com/spreadsheets/d/1cJEKXi2-V47BDSKH-w2vzXvwWTIgdLD41aiQXKUoUM8/)
 
