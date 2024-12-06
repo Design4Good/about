@@ -1,9 +1,12 @@
 
-# Newtork
+# Network
 
+- G3 
+- ~radio~ communication
 
 # Power outage
 
+- How else to extend battery life
 
 # Apps
 
@@ -14,12 +17,13 @@
 
 - Apps for Art therapy 
 
-## Requirements:
+## Requirements of Apps
 
+- Small app size for ease of download
+- Does not consume up battery quickly
 - Compressed videos
-- Small app size
-- Does not use up battery quickly
-
+- Small app, single purpose would be fine
 
 # Organizations 
+
 - https://connecting-humanity.org/
