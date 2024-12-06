@@ -5,7 +5,7 @@
 | Timelines | Impact now | Empower volunteers |
 | :-- | :-- | :-- |
 | Sprint 2025 | 1. https://www.unrwausa.org/ <br>2. Survey stakeholders to identify priority apps | Scoping review to identify gaps |
-| Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
+| Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach English](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
 | Fall 2025 | Research-to-production | Grant targets for more social initiatives |
 
 
