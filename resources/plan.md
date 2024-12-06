@@ -11,7 +11,7 @@ We shall approach in two parallel streams:
 | Timelines | Impact now | Empower volunteers |
 | :-- | :-- | :-- |
 | Spring 2025 | 1. https://www.unrwausa.org/ <br>2. Survey stakeholders to identify priority apps | Scoping review to identify gaps |
-| Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach English](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | Concept development <br>Potential venues: <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
+| Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach English](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | 1. Concept development <br>2. Potential venues: <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
 | Fall 2025 | Research-to-production | Grant targets for more social initiatives |
 
 
@@ -66,7 +66,7 @@ We shall approach in two parallel streams:
 - [Schedules (password-protected)](https://docs.google.com/spreadsheets/d/1cJEKXi2-V47BDSKH-w2vzXvwWTIgdLD41aiQXKUoUM8/)
 - [Ongoing slides (password-protected)](https://docs.google.com/presentation/d/1XDorVtJKzIesXw_CeHRsWrYiCJBIfMaJjshK773Iu88/edit?usp=sharing)
 
-## Target One
+## Goal #1
 
 - [Rough outline (password-protected)](https://docs.google.com/document/d/1hRCyh38mt3Hh3xnGHLtbymYqVT-dNBVnoEkKI0N1B4o/edit?tab=t.0)
 - [Articles suggested for skimming (password-protected)](https://docs.google.com/spreadsheets/d/15XVV9Gft55vGiOiqgdYDs7vaiG0c76dhH9ik2VIMUaw/edit?gid=1892393867#gid=1892393867)
