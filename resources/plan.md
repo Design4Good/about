@@ -1,6 +1,12 @@
-# Plan
+# Design4Good's Roadmap 
 
-## Overview
+# Overview of our vision 
+
+We shall approach in two parallel streams:
+1) Bring impact
+2) Empower volunteers who are contributing their time
+
+# Plan
 
 | Timelines | Impact now | Empower volunteers |
 | :-- | :-- | :-- |
@@ -9,7 +15,7 @@
 | Fall 2025 | Research-to-production | Grant targets for more social initiatives |
 
 
-## Consultations
+## Consultations with stakeholders (more to be completed next)
 
 <details>
 
@@ -58,6 +64,11 @@
 ## Logistics
 
 - [Schedules (password-protected)](https://docs.google.com/spreadsheets/d/1cJEKXi2-V47BDSKH-w2vzXvwWTIgdLD41aiQXKUoUM8/)
+- [Ongoing slides (password-protected)](https://docs.google.com/presentation/d/1XDorVtJKzIesXw_CeHRsWrYiCJBIfMaJjshK773Iu88/edit?usp=sharing)
+
+## Target One
+
 - [Rough outline (password-protected)](https://docs.google.com/document/d/1hRCyh38mt3Hh3xnGHLtbymYqVT-dNBVnoEkKI0N1B4o/edit?tab=t.0)
 - [Articles suggested for skimming (password-protected)](https://docs.google.com/spreadsheets/d/15XVV9Gft55vGiOiqgdYDs7vaiG0c76dhH9ik2VIMUaw/edit?gid=1892393867#gid=1892393867)
 - [PDFs in Dropbox (open-access)](https://www.dropbox.com/scl/fo/6jv48s29nt9k08x3oi6nj/ABnVQc8saa8h7MqXMYCi6cc?rlkey=78x8rhn2i2llup790ywbo3od6&e=1&st=aoh2sbu5&dl=0)
+
