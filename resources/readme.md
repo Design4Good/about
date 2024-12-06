@@ -2,7 +2,7 @@
 # Network
 
 - G3 
-- ~radio~ communication
+- ~radio communication~
 
 # Power outage
 
@@ -12,10 +12,11 @@
 
 ## User cases 
 
-- Support for journalists
-- Support for students/ educators
-
-- Apps for Art therapy 
+1. Support for journalists
+2. Educational apps for students/ educators
+3. Tools for cultural preservations 
+  - Leverage GPS/ camera/ sensors   
+4. Apps for art therapy 
 
 ## Requirements of Apps
 
@@ -27,3 +28,5 @@
 # Organizations 
 
 - https://connecting-humanity.org/
+- Islamic Relief Canada https://www.islamicreliefcanada.org/home?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com
+- https://www.ummarelief.org
