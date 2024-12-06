@@ -3,7 +3,7 @@
 # Overview of our vision 
 
 We shall approach in two parallel streams:
-1) Bring impact
+1) Make a difference now
 2) Empower volunteers who are contributing their time
 
 # Plan
