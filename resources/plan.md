@@ -6,7 +6,8 @@
 | :-- | :-- | :-- |
 | Sprint 2025 | 1. https://www.unrwausa.org/ <br>2. Survey stakeholders to identify priority apps | Scoping review to identify gaps |
 | Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
-| Fall 2025 |  | Research-to-production & grant targets |
+| Fall 2025 | Research-to-production | Grant targets for more social initiatives |
+
 
 ## Consultations
 
@@ -14,7 +15,7 @@
 
 <summary>2024-11-28</summary>
 
-# Assistant prof  
+# Assistant professor from UBC  
 - Workshops 4 Gaza
 - eSIMS
 - Journalists
@@ -26,8 +27,9 @@
 
 <summary>2024-12-05</summary>
 
-# WB resident/ assistant prof
-- No light
+# Assistant professor from Middle East
+
+- "No light; difficult to learn"
 - Living in tents
 - No radio communication
 - Minimal network connectivity (not even 3G)
@@ -41,14 +43,12 @@
   - https://www.birzeit.edu/en/the-world-sides-with-gaza/ontario-teachers-sign-petition-against-their-pension-plans-being-used
   - https://www.unrwausa.org/
 
-
 </details>
-
 
 
 ##  Team's skills/ experiences
 
-- CS
+- Computer Science/ AI
 - Designer
   - Graphics
   - UX/UI
