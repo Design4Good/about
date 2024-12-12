@@ -56,18 +56,39 @@ We shall approach in two parallel streams:
 
 <details>
 
+<summary>2024-11-13</summary>
+- Attendees: T+L+Y
+- Y shared list of references
+
+</details>
+
+
+
+<details>
+
 <summary>2024-11-28</summary>
+- Attendees: T+L
 - Prioritize review over grant
 
 </details>
 
 
 <details>
-<summary>2024-12-12</summary>
+<summary>2024-12-04</summary>
+
+- Attendees: T+A+R
+- Q/A + logistics 
+
+</details>
+
+<details>
+<summary>2024-12-11</summary>
+  
 - Context of different problems determine outcome to achieve
 - Prioritize specific over generalizability (to other refugee camp sites)
 
 </details>
+
 
 <details>
 
