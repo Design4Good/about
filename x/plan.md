@@ -65,7 +65,7 @@ We shall approach in two parallel streams:
 <details>
 <summary>2024-12-12</summary>
 - Context of different problems determine outcome to achieve
-- Prioritize specific over generalizability (to other refugee sites)
+- Prioritize specific over generalizability (to other refugee camp sites)
 
 </details>
 
