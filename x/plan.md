@@ -66,8 +66,8 @@ We shall approach in two parallel streams:
 
 <details>
 
-<summary>2024-11-13</summary>
-- Attendees: T+L+Y
+<summary>2024-11-14</summary>
+Attendees: T+L+Y
 - Y shared list of references
 
 </details>
@@ -76,8 +76,18 @@ We shall approach in two parallel streams:
 
 <details>
 
+<summary>2024-11-18 + 2024-11-25</summary>
+Attendees: T+L
+- Co-reading sessions
+</details>
+
+
+
+
+<details>
+
 <summary>2024-11-28</summary>
-- Attendees: T+L
+Attendees: T+L
 - Prioritize review over grant
 
 </details>
@@ -85,15 +95,14 @@ We shall approach in two parallel streams:
 
 <details>
 <summary>2024-12-04</summary>
-
-- Attendees: T+A+R
+Attendees: T+A+R
 - Q/A + logistics 
 
 </details>
 
 <details>
 <summary>2024-12-11</summary>
-  
+Attendees: T+A+R  
 - Context of different problems determine outcome to achieve
 - Prioritize specific over generalizability (to other refugee camp sites)
 
@@ -103,7 +112,7 @@ We shall approach in two parallel streams:
 <details>
 
 <summary>2024-12-12</summary>
-
+- Attendees: T+L
 - Review of this page
 - Scoping review: tasks & contributions
 - Admin survey - discussed
