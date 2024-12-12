@@ -12,7 +12,7 @@ We shall approach in two parallel streams:
 | :-- | :-- | :-- |
 | Spring 2025 | 1. https://www.unrwausa.org/ <br>2. Survey stakeholders to identify priority apps | Scoping review to identify gaps |
 | Summer 2025 | 1. Design of art therapy workshops + facilitations <br> 2. Create video recordings/ [volunteer to teach English](https://www.govolunteerinpalestine.org/volunteer-to-teach-english-online-to-palestinians/)  | 1. Concept development <br>2. Potential venues: <br>- https://ihsint.org/ <br>- https://2025.hci.international/ |
-| Fall 2025 | Research-to-production | Grant targets for more social initiatives |
+| Fall 2025 | Research-to-production | [Grants](https://www.unhcr.org/innovation/10-funding-resources-for-humanitarian-innovators-2/) targets for more social initiatives?  |
 
 
 ## Consultations with stakeholders (more to be completed next)
@@ -82,3 +82,4 @@ Q: Why apps vs website?
 
 Q: Where is this going?
 - [Some ideas...](https://www.reddit.com/r/Entrepreneur/comments/18xpij2/how_to_start_and_find_seed_fund_for_a/?rdt=34450)
+
