@@ -51,6 +51,17 @@ We shall approach in two parallel streams:
 
 </details>
 
+## Meeting agendas
+
+<details>
+
+<summary>2024-12-12</summary>
+- Review of this page
+- Scoping review: tasks & contributions
+- Admin survey
+- Survey questions
+
+</details>
 
 ##  Team's skills/ experiences
 
