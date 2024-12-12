@@ -56,6 +56,16 @@ We shall approach in two parallel streams:
 
 <details>
 
+<summary>2024-10-17</summary>
+
+- Invited Y for intro + brainstorm 
+
+</details>
+
+
+
+<details>
+
 <summary>2024-11-13</summary>
 - Attendees: T+L+Y
 - Y shared list of references
