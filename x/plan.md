@@ -17,6 +17,7 @@ We shall approach in two parallel streams:
 
 ## Consultations with stakeholders (more to be completed next)
 
+
 <details>
 
 <summary>2024-11-28</summary>
@@ -51,14 +52,30 @@ We shall approach in two parallel streams:
 
 </details>
 
-## Meeting agendas
+## Meeting agendas/ minutes
+
+<details>
+
+<summary>2024-11-28</summary>
+- Prioritize review over grant
+
+</details>
+
+
+<details>
+<summary>2024-12-12</summary>
+- Context of different problems determine outcome to achieve
+- Prioritize specific over generalizability (to other refugee sites)
+
+</details>
 
 <details>
 
 <summary>2024-12-12</summary>
+
 - Review of this page
 - Scoping review: tasks & contributions
-- Admin survey
+- Admin survey - discussed
 - Survey questions
 
 </details>
