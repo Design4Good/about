@@ -2,8 +2,9 @@
 
 ## Projects
 
-- Check out our current project [SAIL Initiatives](https://www.instagram.com/sail.initiatives/)
-- AI projects: open LLMs for machine translation - details coming soon 
+- [SAIL Initiatives](https://www.instagram.com/sail.initiatives/): co-creation workshops to help marginalized children
+- AI projects: Open LLMs for machine translation - details coming soon 
+- AI for humanitarian aid - details coming soon 
 - Cultural preservation - details coming soon
 
 ## Partners
