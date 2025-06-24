@@ -1,5 +1,3 @@
-# Design4Good
-
 *We are a non-profit group with members from around the world with the mission to support marginalized communities.*
 
 ## Projects
