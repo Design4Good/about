@@ -7,6 +7,6 @@
 
 - [MOSAICC](https://design4good.github.io/mosaicc/) 
 
-- [End stigma!](https://design4good.github.io/mosaicc/)  - details coming soon
+- [End stigma!](https://design4good.github.io/end-stigma/)  - details coming soon
 
 - Cultural preservation - details coming soon
