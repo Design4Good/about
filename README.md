@@ -2,8 +2,7 @@
 
 ## Projects
 
-- [SAIL Initiatives](https://www.instagram.com/sail.initiatives/): co-creation workshops to help marginalized children  
-  - Partner: [LabTek Indie](https://www.instagram.com/labtekindie/)
+- [SAIL Initiatives](https://www.instagram.com/sail.initiatives/): Partnered with [LabTek Indie](https://www.instagram.com/labtekindie/), we held a co-creation workshop over two weekends in June 2025 to help marginalized children 
 
 - [MOSAICC](https://design4good.github.io/mosaicc/) 
 
