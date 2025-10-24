@@ -2,10 +2,11 @@
 
 ## Projects
 
-- [SAIL Initiatives](https://www.instagram.com/sail.initiatives/): Partnered with [LabTek Indie](https://www.instagram.com/labtekindie/), we held a co-creation workshop over two weekends in June 2025 to help marginalized children 
 
 - [MOSAICC](https://design4good.github.io/mosaicc/) 
 
 - [End stigma!](https://design4good.github.io/end-stigma/)  - details coming soon
 
+- [LISTEN](https://github.com/LISTEN-prototype/about)
+ 
 - Cultural preservation - details coming soon
