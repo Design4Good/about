@@ -7,6 +7,6 @@
 
 - [End stigma!](https://design4good.github.io/end-stigma/)  - details coming soon
 
-- [LISTEN](https://github.com/LISTEN-prototype/about)
+- [LISTEN](https://github.com/LISTEN-prototype/about) - prototype to combat health misinformation 
  
 - Cultural preservation - details coming soon
